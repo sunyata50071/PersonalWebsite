@@ -24,7 +24,7 @@
 
 
 body, html {
-    margin: auto;
+    margin: 0;
     padding: 10px;
     background: var(--background);
     color: var(--text);
